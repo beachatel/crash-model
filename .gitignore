@@ -95,3 +95,5 @@ Scripts
 
 # Data
 /data/
+
+*.DS_Store
